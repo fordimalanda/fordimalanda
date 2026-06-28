@@ -77,12 +77,6 @@ Advanced sitemap generator for Next.js applications.
 
 ---
 
-### Nexus Store
-
-Modern e-commerce platform based on a scalable microservice architecture.
-
----
-
 # Tech Stack
 
 <p align="center">
@@ -175,7 +169,7 @@ Current projects include:
 - **KivaDB**
 - **LITH HTTP Server**
 - **Next Advanced Sitemap**
-- **Nexus Store**
+- **Phive**
 
 More projects are coming soon.
 
