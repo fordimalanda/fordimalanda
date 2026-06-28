@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Fordi Malanda
 
-### Computer Engineering Student • Open Source Developer • Backend Engineer
+### Computer Engineering • Open Source Developer • Backend Engineer
 
 Building databases, servers and developer tools from **DR Congo 🇨🇩**
 
@@ -31,7 +31,7 @@ Building databases, servers and developer tools from **DR Congo 🇨🇩**
 
 # About
 
-I'm a Computer Engineering student at the **University of Kinshasa (UNIKIN)** with a strong passion for low-level software engineering, backend systems and developer tools.
+I am a Computer Engineer with a strong passion for low-level software engineering, backend systems, and developer tools.
 
 My main interests include:
 
@@ -120,14 +120,6 @@ Advanced sitemap generator for Next.js applications.
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=fordimalanda&theme=github-dark&hide_border=true"/>
-</p>
-
----
-
-# GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=fordimalanda&theme=algolia&no-frame=true&row=2&column=4"/>
 </p>
 
 ---
@@ -428,7 +420,7 @@ Open Source
 ```text
 Name        : Fordi Malanda
 Location    : Kinshasa, DR Congo
-Occupation  : Computer Engineering Student
+Occupation  : Computer Engineering
 
 Speciality  : Backend Engineering
 
