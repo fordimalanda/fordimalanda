@@ -1,3 +1,11 @@
+<p align="left">
+  <img src="https://githubassets.com" width="120" alt="Quickdraw" />
+  <img src="https://githubassets.com" width="120" alt="Pull Shark" />
+</p>
+
+
+
+
 <div align="center">
 
 # Hi 👋, I'm Fordi Malanda
