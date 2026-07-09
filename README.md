@@ -114,6 +114,8 @@ Advanced sitemap generator for Next.js applications.
 
 </p>
 
+![Mes Stats](https://vercel.app)
+
 ---
 
 # GitHub Activity
