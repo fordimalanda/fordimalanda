@@ -135,7 +135,7 @@ public:
 
 <h3>Languages</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,go,javascript,typescript,python,rust,java,dart" alt="Langages" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,go,javascript,typescript,python,rust,java,php,dart" alt="Langages" />
 </p>
 
 <h3>Frameworks & Runtimes</h3>
