@@ -140,7 +140,7 @@ public:
 
 <h3>Frameworks & Runtimes</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,react,nestjs,django,fastapi,flutter" alt="Frameworks et Runtimes" />
+  <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,nestjs,django,fastapi,flutter" alt="Frameworks et Runtimes" />
 </p>
 
 <h3>Databases & ORM</h3>
