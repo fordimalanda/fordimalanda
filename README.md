@@ -133,13 +133,7 @@ public:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,nestjs,flutter,rust,java,mysql,postgresql,sqlite,mongodb,redis,prisma,nginx,linux,git,github"/>
-
-</p>
-
-<p align="center">
-
-PM2 • Certbot • gRPC
+<img src="https://skillicons.dev/icons?i=c,cpp,go,javascript,typescript,python,react,nodejs,nestjs,flutter,rust,java,mysql,postgresql,sqlite,mongodb,redis,prisma,nginx,linux,git,github"/>
 
 </p>
 
