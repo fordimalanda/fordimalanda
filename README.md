@@ -150,7 +150,7 @@ public:
 
 <h3>Tools and System</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,nginx,git,github" alt="Outils et DevOps" />
+  <img src="https://skillicons.dev/icons?i=linux,nginx,git,github,docker,kubernetes" alt="Outils et DevOps" />
 </p>
 
 ---
