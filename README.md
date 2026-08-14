@@ -131,26 +131,22 @@ public:
 <table>
 
 
-<!-- Langages de programmation -->
-<h3>Langages</h3>
+<h3>Languages</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,go,javascript,typescript,python,rust,java,dart" alt="Langages" />
 </p>
 
-<!-- Frameworks, Runtimes & Écosystèmes -->
 <h3>Frameworks & Runtimes</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,react,nestjs,django,fastapi,flutter" alt="Frameworks et Runtimes" />
 </p>
 
-<!-- Bases de données & ORM -->
-<h3>Bases de données & ORM</h3>
+<h3>Databases & ORM</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb,redis,prisma" alt="Bases de données et ORM" />
 </p>
 
-<!-- Outils, DevOps & Système -->
-<h3>Outils & Système</h3>
+<h3>Tools and System</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,nginx,git,github" alt="Outils et DevOps" />
 </p>
