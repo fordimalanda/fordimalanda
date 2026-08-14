@@ -21,6 +21,8 @@ Building databases, servers and developer tools from **DR Congo 🇨🇩**
 <img src="https://komarev.com/ghpvc/?username=fordimalanda&style=for-the-badge"/>
 </a>
 
+[![committers.top badge](https://user-badge.committers.top/congo_kinshasa_private/fordimalanda.svg)](https://user-badge.committers.top/congo_kinshasa_private/fordimalanda)
+
 </p>
 
 </div>
