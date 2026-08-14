@@ -224,6 +224,30 @@ public:
 
 ---
 
+---
+
+# GitHub Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fordimalanda&theme=github-dark&hide_border=true" />
+
+</p>
+
+---
+
+# Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/fordimalanda/fordimalanda/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+
+</p>
+
+> **Note:** The snake animation appears after GitHub Actions generate the SVG.
+
+---
+
 # Outside Coding
 
 - Reading about distributed systems
