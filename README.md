@@ -130,59 +130,18 @@ public:
 
 <table>
 
-<tr>
 
-<td align="center">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=c"/><br>
+<img src="https://skillicons.dev/icons?i=react,nodejs,nestjs,flutter,rust,java,mysql,postgresql,sqlite,mongodb,redis,prisma,nginx,linux,git,github"/>
 
-<b>C</b>
+</p>
 
-</td>
+<p align="center">
 
-<td align="center">
+PM2 • Certbot • gRPC
 
-<img src="https://skillicons.dev/icons?i=cpp"/><br>
-
-<b>C++</b>
-
-</td>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=go"/><br>
-
-<b>Go</b>
-
-</td>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=python"/><br>
-
-<b>Python</b>
-
-</td>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=ts"/><br>
-
-<b>TypeScript</b>
-
-</td>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=nextjs"/><br>
-
-<b>Next.js</b>
-
-</td>
-
-</tr>
-
-</table>
+</p>
 
 ---
 
