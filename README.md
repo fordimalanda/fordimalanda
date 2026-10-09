@@ -23,6 +23,10 @@ Building databases, servers and developer tools from **DR Congo 🇨🇩**
 
 [![committers.top badge](https://user-badge.committers.top/congo_kinshasa_private/fordimalanda.svg)](https://user-badge.committers.top/congo_kinshasa_private/fordimalanda)
 
+[![committers.top badge](https://user-badge.committers.top/congo_kinshasa/fordimalanda.svg)](https://user-badge.committers.top/congo_kinshasa/fordimalanda)
+
+[![committers.top badge](https://user-badge.committers.top/congo_kinshasa_public/fordimalanda.svg)](https://user-badge.committers.top/congo_kinshasa_public/fordimalanda)
+
 </p>
 
 </div>
