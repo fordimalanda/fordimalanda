@@ -163,7 +163,7 @@ public:
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| **KivaDB** | Lightweight NoSQL Database Engine | 🟢 Active |
+| **KivaDB** | Multi-model database | 🟢 Active |
 | **LITH HTTP Server** | HTTP Server written in C | 🟢 Active |
 | **Next Advanced Sitemap** | Sitemap Generator for Next.js | 🟢 Active |
 | **Phive** | VS Code extension | 🟢 Active |
