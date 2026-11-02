@@ -51,6 +51,7 @@ Favorite Languages
 
 ✔ C
 ✔ C++
+✔ Rust
 ✔ TypeScript
 ✔ Python
 
