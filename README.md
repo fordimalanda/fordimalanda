@@ -106,7 +106,7 @@ Building infrastructure software that developers enjoy using.
 
       │                     │                     │
 
-   KivaDB               LITH HTTP           Next Advanced Sitemap
+   KivaDB               LITH HTTP           Advanced Sitemap
 
       │
 
