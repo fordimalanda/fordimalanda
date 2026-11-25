@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Fordi Malanda
 
-### Computer Engineering • Open Source Developer • Backend Engineer
+### Computer Engineering • Software Engineering • Backend Engineer
 
 Building databases, servers and developer tools from **DR Congo 🇨🇩**
 
