@@ -40,12 +40,13 @@ Name        : Fordi Malanda
 Location    : Kinshasa, DR Congo
 Occupation  : Computer Engineering
 
-Speciality  : Backend Engineering
+Speciality  :Software Engineering
 
 Focus       : Databases
               HTTP Servers
               Developer Tools
               Open Source
+              Backend Engineering
 
 Favorite Languages
 
