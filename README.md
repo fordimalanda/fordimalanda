@@ -167,8 +167,6 @@ public:
 |---------|-------------|--------|
 | **KivaDB** | Multi-model database | 🟢 Active |
 | **LITH HTTP Server** | HTTP Server written in C | 🟢 Active |
-| **Next Advanced Sitemap** | Sitemap Generator for Next.js | 🟢 Active |
-| **Phive** | VS Code extension | 🟢 Active |
 | **LimbAI** | AI restoring natural rhythm to every language | 🟡 Planning |
 
 ---
